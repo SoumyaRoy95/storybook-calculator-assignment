@@ -1,0 +1,9 @@
+.clearbutton {
+  background-color: cornsilk;
+  border: 1px solid brown;
+  color: grey;
+  font-size: 18px;
+  padding: 10px;
+  text-align: center;
+  width: 105px;
+}
